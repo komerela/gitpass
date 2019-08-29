@@ -1,0 +1,2 @@
+# gitpass
+auto git login
